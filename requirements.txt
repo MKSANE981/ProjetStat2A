@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+datetime
+st_pages
+Image
+statistics
+pandas_profiling
+joblib
+streamlit_pandas_profiling
